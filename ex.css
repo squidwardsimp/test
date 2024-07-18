@@ -1,0 +1,42 @@
+.amaz{color: rgb(0, 113, 133);}
+.nike{font-weight: bold;}
+.price{font-size: larger; color: rgb(0,118,0); font-weight: bold;}
+.cart{background-color: rgb(255, 216, 20);
+        padding-top:10px;padding-bottom: 10px; padding-left: 24px;padding-right: 24px; border: none; border-radius: 30px;
+        font-size: medium; cursor: pointer; margin-right: 20px; transition: 0.15s;margin-top: 0px;}
+.buy{background-color: rgb(255,164,28); padding-top:10px;padding-bottom: 10px; padding-left: 34px;padding-right: 34px;
+                border: none; border-radius: 30px; font-size: medium; cursor: pointer; transition: 0.15s;}
+.gift{font-size: medium; margin-right: 10px; padding-top: 5px; padding-bottom: 5px; padding-left: 5px; padding-right: 5px;}
+.wish{font-size: medium; margin-left: 10px; padding-top: 5px; padding-bottom: 5px; padding-left: 5px; padding-right: 5px;}
+.point{font-family: Arial, Helvetica, sans-serif; font-size: xx-large;margin-top: 8px; margin-bottom: 8px;}
+.usd{font-size: large; color: rgb(93, 91, 91);}
+.today{margin-top:0px; color: green; font-size: medium; font-family: Arial, Helvetica, sans-serif; margin-bottom:8px;}
+.after{font-family: Arial, Helvetica, sans-serif; color: rgb(93, 91, 91); margin-top: 0px;}
+.sum{color: rgb(191, 13, 13);}
+.deli{font-family: Montserrat; margin-top: 20px; line-height: 0px; margin-bottom: 0px;}
+.sizestyle{font-family:Montserrat;}
+.size{padding: 18px 18px 18px 18px; border-radius: 50px; border:0px; font-size: medium; background-color: rgb(233, 234, 236); transition: 0.15s;}
+.nostock{font-family:Roboto ; position:relative; opacity: 0.5; top: -35px; font-size: xxx-large; margin-bottom: 0px; padding-bottom: 0px;}
+.size9{padding: 18px 18px 0px 18px; border-radius: 50px; border:0px; font-size: medium; background-color: rgb(233, 234, 236); transition: 0.15s; opacity: 0.8px; height: 55px;}
+.notify{font-size: medium; border-width: 0.5px; border-color: black; padding: 5px 0px 5px 5px;}
+.nome{font-family: Roboto; font-size: medium; padding: 5px 3px 5px 3px; background-color: rgb(51, 51, 51); color: rgb(255, 255, 255); border: none;}
+.imgg{ height: 250px; width:350px; object-fit: cover; object-position: bottom; display: inline-block;} 
+
+
+.amaz:hover {color: #9f6934;}
+.cart:hover {background-color: #f1bd54; transition: 0.15s; padding-left: 35px; padding-right: 35px;
+            padding-top: 12px; padding-bottom: 12px;}
+
+.buy:hover {background-color: rgb(232, 141, 4); transition: 0.15s; padding-left: 44px; padding-right: 44spx;
+            padding-top: 12px; padding-bottom: 12px;}
+.gift:hover {padding-left:5px; padding-right: 15px; margin-right: 0px; cursor: pointer;}
+.wish:hover {padding-left: 15px; padding-right: 15px; margin-left: 0px; cursor: pointer;}
+.size:hover {background-color: rgb(204, 205, 207); cursor: pointer;}
+.nome:hover {cursor: pointer; opacity: 0.8; transition: 0.15s;}
+
+            
+
+
+.cart:active {opacity:0.5;}
+.buy:active {opacity: 0.5;}
+.size:active{opacity: 0.5;}
